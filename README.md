@@ -35,6 +35,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40">
    <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" alt="Flask" width="40">
    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Sass" alt="Sass" width="40">
 </div>
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Berupor&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
