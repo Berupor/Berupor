@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @Berupor
-- 👀 I’m interested in Python backend 
-- 🌱 I’m currently learning Python, CSS, HTML, JS
-- 📫 My telegram https://t.me/lackinspiration
-- 🤍 I like Pink Floyd and Alan Parsons project
-
-Have a nice day. 
+<div id="header" align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/291/291642.png" width="100"/>
+</div> 
