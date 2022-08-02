@@ -9,9 +9,11 @@
     <img src="https://img.shields.io/badge/Telegram-informational?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=Berupor&style=flat-square&color=blue" aligin="center" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=Berupor&style=flat-square&color=blue" align="center" alt=""/>
 
-### :woman_technologist: About Me :
+---
+
+### :man_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
@@ -22,3 +24,5 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
 ---
+
+### :hammer_and_wrench: Languages and Tools :
