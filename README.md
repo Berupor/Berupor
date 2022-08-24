@@ -17,7 +17,7 @@
 Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 - :telescope: I’m flask web aplication Developer.
 
-- :seedling: Exploring Web security.
+- :seedling: Exploring Web security, Django.
 
 - :zap: In my free time I read tech articles, learning english and create my own projects.
 
