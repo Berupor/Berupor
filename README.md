@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/evgeniy-zelenov-0459a3236/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://t.me/lackinspiration">
+  <a href="https://t.me/berupor">
     <img src="https://img.shields.io/badge/Telegram-informational?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
   </a>
 </div>
