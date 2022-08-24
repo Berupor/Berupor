@@ -21,7 +21,7 @@ Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
 
 - :zap: In my free time I read tech articles, learning english and create my own projects.
 
-- :mailbox:How to reach me: [![LinkediTelegram Badge](https://img.shields.io/badge/Telegram-informational?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/lackinspiration)
+- :mailbox:How to reach me: [![LinkediTelegram Badge](https://img.shields.io/badge/Telegram-informational?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/berupor)
 
 ---
 
