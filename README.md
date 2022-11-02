@@ -15,11 +15,6 @@
 
 ### :man_technologist: About Me :
 Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-- :telescope: I’m flask web aplication Developer.
-
-- :seedling: Exploring Web security, Django.
-
-- :zap: In my free time I read tech articles, learning english and create my own projects.
 
 - :mailbox:How to reach me: [![LinkediTelegram Badge](https://img.shields.io/badge/Telegram-informational?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/berupor)
 
