@@ -16,7 +16,7 @@
 ### :man_technologist: About Me :
 Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-- :mailbox:How to reach me: [![LinkediTelegram Badge](https://img.shields.io/badge/Telegram-informational?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/berupor)
+- :mailbox:How to reach me: [![LinkediTelegram Badge](https://img.shields.io/badge/Telegram-informational?logo=telegram&logoColor=white&style=appveyor)](https://t.me/berupor)
 
 ---
 
