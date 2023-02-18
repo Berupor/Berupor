@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968286.png" width="200"/>
+  <img src="line_ploty.png"/>
 </div> 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/evgeniy-zelenov/">
