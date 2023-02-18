@@ -17,7 +17,7 @@
 Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 - :mailbox:How to reach me: [![LinkediTelegram Badge](https://img.shields.io/badge/Telegram-informational?logo=telegram&logoColor=white&style=appveyor)](https://t.me/berupor)
-- :comet: I'm currently working on [Notifications-Service](https://github.com/Berupor/Notifications-Service) and [Calendar Analytics](https://github.com/Berupor/Calendar-Analytics).
+- :comet: I'm currently working on [Calendar Analytics](https://github.com/Berupor/Calendar-Analytics).
 ---
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Berupor&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
