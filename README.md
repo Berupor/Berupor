@@ -2,14 +2,7 @@
   <img src="chart_dark.png#gh-dark-mode-only"/>
   <img src="chart_light.png#gh-light-mode-only"/>
 </div> 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/evgeniy-zelenov/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://t.me/berupor">
-    <img src="https://img.shields.io/badge/Telegram-informational?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
-  </a>
-</div>
+
 <img src="https://komarev.com/ghpvc/?username=Berupor&style=flat-square&color=blue" align="center" alt=""/>
 
 ---
