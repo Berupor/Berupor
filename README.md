@@ -3,8 +3,6 @@
   <img src="chart_light.png#gh-light-mode-only"/>
 </div> 
 
-<img src="https://komarev.com/ghpvc/?username=Berupor&style=flat-square&color=blue" align="center" alt=""/>
-
 ---
 
 ### :man_technologist: About Me :
