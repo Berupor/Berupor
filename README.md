@@ -8,7 +8,7 @@
 ### :man_technologist: About Me :
 
 - :mailbox:How to reach me: [![LinkediTelegram Badge](https://img.shields.io/badge/Telegram-informational?logo=telegram&logoColor=white&style=appveyor)](https://t.me/berupor)
-- :comet: I'm currently working on [Calendar Analytics](https://github.com/Berupor/Calendar-Analytics).
+- :comet: I'm currently working on [Calendar Analytics](https://github.com/Berupor/Calendar-Analytics), [Movies-Together](https://github.com/Berupor/Movies-Together)
 ---
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Berupor&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
