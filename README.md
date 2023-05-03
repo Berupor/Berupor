@@ -3,8 +3,7 @@
   <img src="chart_light.png#gh-light-mode-only"/>
 </div> 
 
-Showcase 
-[Calendar Analytics](https://github.com/Berupor/Calendar-Analytics)
+- Showcase [Calendar Analytics](https://github.com/Berupor/Calendar-Analytics)
 
 
 ---
