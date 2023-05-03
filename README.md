@@ -11,6 +11,6 @@
 - :comet: I'm currently working on [Calendar Analytics](https://github.com/Berupor/Calendar-Analytics), [Movies-Together](https://github.com/Berupor/Movies-Together)
 ---
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Berupor&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+
 
 
