@@ -5,7 +5,6 @@
 
 - Showcase [Calendar Analytics](https://github.com/Berupor/Calendar-Analytics)
 
----
 
 
 
