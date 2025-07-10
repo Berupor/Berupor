@@ -1,0 +1,24 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Awesome go-echarts</title>
+    <script src="https://go-echarts.github.io/go-echarts-assets/assets/echarts.min.js"></script>
+</head>
+
+<body><div class="container">
+    <div class="item" id="gbATHBMTkxNE" style="width:900px;height:500px;"></div>
+</div><script type="text/javascript">
+    "use strict";
+    let goecharts_gbATHBMTkxNE = echarts.init(document.getElementById('gbATHBMTkxNE'), "white", { renderer: "canvas" });
+    let option_gbATHBMTkxNE = {"color":["#5470c6","#91cc75","#fac858","#ee6666","#73c0de","#3ba272","#fc8452","#9a60b4","#ea7ccc"],"legend":{},"series":[{"name":"Hours","type":"bar","data":[{"value":3},{"value":11.75}]}],"title":{"text":"Programming Time (hrs)"},"toolbox":{},"tooltip":{},"xAxis":[{"name":"Date","data":["2025-07-09","2025-07-10"]}],"yAxis":[{"name":"Hours"}]}
+
+    goecharts_gbATHBMTkxNE.setOption(option_gbATHBMTkxNE);
+</script>
+<style>
+    .container {margin-top:30px; display: flex;justify-content: center;align-items: center;}
+    .item {margin: auto;}
+</style>
+</body>
+</html>
